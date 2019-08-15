@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">602981312647-33dn0h247c2m0bl62jqa59spj15ij40f.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://onlineopenhouse-9a7cd.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">602981312647</string>
+    <string name="google_api_key" translatable="false">AIzaSyDYF8NNVTck2hF2tlnoAuGJO5Gc91QZEbU</string>
+    <string name="google_app_id" translatable="false">1:602981312647:android:e5391c53780cb5b1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDYF8NNVTck2hF2tlnoAuGJO5Gc91QZEbU</string>
+    <string name="google_storage_bucket" translatable="false">onlineopenhouse-9a7cd.appspot.com</string>
+    <string name="project_id" translatable="false">onlineopenhouse-9a7cd</string>
+</resources>

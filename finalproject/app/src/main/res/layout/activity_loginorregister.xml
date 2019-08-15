@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id = "@+id/layout"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/logingradient"
+    tools:context="com.example.sahilbansal.online_open_house.loginorregister">
+    <RelativeLayout
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <!--<TextView-->
+            <!--android:id="@+id/start"-->
+            <!--android:textColor="#000"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="Online Open-->
+ <!--House"-->
+            <!--android:textSize="40dp"-->
+            <!--android:layout_marginTop="20dp"-->
+            <!--android:textAlignment="center"/>-->
+
+    </RelativeLayout>
+
+<ScrollView
+
+
+    android:layout_marginTop="40dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/registered"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="153dp"
+        android:background="@drawable/loginbutton"
+        android:text="Create a new Account"
+        android:textColor="#f16f7d"
+        android:textSize="20dp" />
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/loginaccount"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/registered"
+        android:background="@drawable/loginbutton"
+        android:textSize="20dp"
+        android:textColor="#f16f7d"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="74dp"
+        android:text="Already have an account" />
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/admin"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/loginbutton"
+        android:textSize="20dp"
+        android:textColor="#f16f7d"
+        android:layout_below="@+id/loginaccount"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="74dp"
+        android:text="Login as admin"/>
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+
+            android:scaleType="fitXY"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="0dp"
+
+            app:srcCompat="@drawable/gggggg" />
+    </RelativeLayout>
+</ScrollView>
+
+</RelativeLayout>

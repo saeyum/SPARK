@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Wed Aug 14 18:18:45 IST 2019
+1.base=E\:\\android projects\\Online_open_house\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+2.path=classes.dex
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=E\:\\android projects\\Online_open_house\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+3.set=ASSET
+2.set=DEX
+1.baseType=DIRECTORY
+3.path=comic.ttf
+count=4
+1.set=ASSET
+0.path=classes.dex
+3.base=E\:\\android projects\\Online_open_house\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+0.set=DEX
+0.base=E\:\\android projects\\Online_open_house\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+2.baseType=DIRECTORY
+1.path=font.ttf

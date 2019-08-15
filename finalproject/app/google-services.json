@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "602981312647",
+    "firebase_url": "https://onlineopenhouse-9a7cd.firebaseio.com",
+    "project_id": "onlineopenhouse-9a7cd",
+    "storage_bucket": "onlineopenhouse-9a7cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602981312647:android:e5391c53780cb5b1",
+        "android_client_info": {
+          "package_name": "com.example.sahilbansal.online_open_house"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602981312647-c3dfhfvnnp4jnmke4ktiog7hhdgt1lh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sahilbansal.online_open_house",
+            "certificate_hash": "ca2c72e782feaffc0570f61072cab87352214cb1"
+          }
+        },
+        {
+          "client_id": "602981312647-33dn0h247c2m0bl62jqa59spj15ij40f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYF8NNVTck2hF2tlnoAuGJO5Gc91QZEbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602981312647-33dn0h247c2m0bl62jqa59spj15ij40f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
